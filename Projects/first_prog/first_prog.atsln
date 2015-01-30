@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "orangutan_app1", "orangutan_app1\orangutan_app1.cproj", "{F9A0602A-A621-4515-838F-7A1E56D1F47A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9A0602A-A621-4515-838F-7A1E56D1F47A}.Debug|AVR.ActiveCfg = Debug|AVR
+		{F9A0602A-A621-4515-838F-7A1E56D1F47A}.Debug|AVR.Build.0 = Debug|AVR
+		{F9A0602A-A621-4515-838F-7A1E56D1F47A}.Release|AVR.ActiveCfg = Release|AVR
+		{F9A0602A-A621-4515-838F-7A1E56D1F47A}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
