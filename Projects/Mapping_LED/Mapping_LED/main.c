@@ -8,6 +8,8 @@
  *
  * LEDs are addressed using their DDR addresses instead of the Pololu libraries.
  *
+ * Portions controlling input from the PC were stolen shamelessly from Pololu example program "serial2"
+ *
  * Created: 1/30/2015 11:07:29 AM
  *  Author: Seth Rowan
  */
